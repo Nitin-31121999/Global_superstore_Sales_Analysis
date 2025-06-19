@@ -84,10 +84,10 @@ The dashboard incorporates the following key features and visualizations to addr
 
 
 ## PowerBI Service Dashboard
-[Screenshot 2025-06-19 135221](https://github.com/user-attachments/assets/6f2713eb-32de-434a-89db-ff1a930997fb)
+
 ![Screenshot 2025-06-19 135427](https://github.com/user-attachments/assets/f4111f5b-cd13-4d06-9ab6-7733b59721cc)
 ![Screenshot 2025-06-19 135535](https://github.com/user-attachments/assets/d606c1cc-1391-44b8-ad01-7b7c5f97fe69)
-
+![Screenshot 2025-06-19 135828](https://github.com/user-attachments/assets/8b04dd56-32a6-4653-80cc-344d366dfe9b)
 
 ## How to Use! 
 
