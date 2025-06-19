@@ -89,7 +89,7 @@ The dashboard incorporates the following key features and visualizations to addr
 ![Screenshot 2025-06-19 135535](https://github.com/user-attachments/assets/d606c1cc-1391-44b8-ad01-7b7c5f97fe69)
 
 
-## How to Use!
+## How to Use! 
 
 1.  **Open in Power BI Desktop:** Download the Power BI `.pbix` file.
 2.  **Access via Web (Power BI Service):** Click on the link provided above to view and interact with the live dashboard in your web browser.
