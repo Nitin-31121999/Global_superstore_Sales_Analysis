@@ -83,8 +83,13 @@ The dashboard incorporates the following key features and visualizations to addr
 [**Link to your Power BI Service Report**](https://app.powerbi.com/reportEmbed?reportId=8e9e141f-954f-4e58-879c-21a9ba6ff234&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
 
 
+## PowerBI Service Dashboard
+[Screenshot 2025-06-19 135221](https://github.com/user-attachments/assets/6f2713eb-32de-434a-89db-ff1a930997fb)
+![Screenshot 2025-06-19 135427](https://github.com/user-attachments/assets/f4111f5b-cd13-4d06-9ab6-7733b59721cc)
+![Screenshot 2025-06-19 135535](https://github.com/user-attachments/assets/d606c1cc-1391-44b8-ad01-7b7c5f97fe69)
 
-## How to Use
+
+## How to Use!
 
 1.  **Open in Power BI Desktop:** Download the Power BI `.pbix` file.
 2.  **Access via Web (Power BI Service):** Click on the link provided above to view and interact with the live dashboard in your web browser.
