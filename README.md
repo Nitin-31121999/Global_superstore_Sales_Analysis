@@ -4,6 +4,12 @@
 
 This Power BI dashboard provides a comprehensive analysis of Global Superstore's sales data up to 2019. Transitioning from Excel-based reporting, this interactive dashboard aims to empower Global Superstore with actionable insights, enabling data-driven decisions and improved overall business performance. It addresses key business questions across various aspects of their operations, from overall performance to regional trends and customer behavior.
 
+# Key KPI:
+
+![Screenshot 2025-06-19 135427](https://github.com/user-attachments/assets/f4111f5b-cd13-4d06-9ab6-7733b59721cc)
+![Screenshot 2025-06-19 135535](https://github.com/user-attachments/assets/d606c1cc-1391-44b8-ad01-7b7c5f97fe69)
+![Screenshot 2025-06-19 135828](https://github.com/user-attachments/assets/8b04dd56-32a6-4653-80cc-344d366dfe9b)
+
 ## Key Features and Visualizations
 
 The dashboard incorporates the following key features and visualizations to address specific business needs:
@@ -81,13 +87,6 @@ The dashboard incorporates the following key features and visualizations to addr
 ## Access the Live Dashboard
 
 [**Link to your Power BI Service Report**](https://app.powerbi.com/reportEmbed?reportId=8e9e141f-954f-4e58-879c-21a9ba6ff234&autoAuth=true&ctid=850aa78d-94e1-4bc6-9cf3-8c11b530701c)
-
-
-# Key KPI:
-
-![Screenshot 2025-06-19 135427](https://github.com/user-attachments/assets/f4111f5b-cd13-4d06-9ab6-7733b59721cc)
-![Screenshot 2025-06-19 135535](https://github.com/user-attachments/assets/d606c1cc-1391-44b8-ad01-7b7c5f97fe69)
-![Screenshot 2025-06-19 135828](https://github.com/user-attachments/assets/8b04dd56-32a6-4653-80cc-344d366dfe9b)
 
 ## How to Use! 
 
